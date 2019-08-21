@@ -4,4 +4,5 @@
         action="pos_product_extend.product_template_form_view_extend"
         parent="point_of_sale.pos_config_menu_catalog"
         sequence="100"/>
+
 </odoo>
